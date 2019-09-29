@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzConsole", "FizzBuzzConsole\FizzBuzzConsole.csproj", "{8915769D-9237-4B32-BB40-09BC862CF287}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciConsole", "Fibonacci\FibonacciConsole.csproj", "{99DCAB95-E7A9-4712-8BED-8A27DE403635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8915769D-9237-4B32-BB40-09BC862CF287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8915769D-9237-4B32-BB40-09BC862CF287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8915769D-9237-4B32-BB40-09BC862CF287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8915769D-9237-4B32-BB40-09BC862CF287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DCAB95-E7A9-4712-8BED-8A27DE403635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DCAB95-E7A9-4712-8BED-8A27DE403635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DCAB95-E7A9-4712-8BED-8A27DE403635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DCAB95-E7A9-4712-8BED-8A27DE403635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C3B9897-3ED8-4FCA-A92E-2BDD3CE9A0D8}
+	EndGlobalSection
+EndGlobal
